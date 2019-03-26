@@ -5,7 +5,7 @@ The folder is structured as:
 .
 +-- README.md
 +-- Code and data/
-|   +-- B/
+|   	+-- B/
 |	|	+-- \_b_all_lineages.zip
 |	|	+-- b_vic.zip
 |	|	+-- b_yam.zip
@@ -16,7 +16,7 @@ The folder is structured as:
 |	+-- H3N2/
 |	|	+-- protein_seqs.zip
 |	|	+-- year_seqs.zip
-|   +-- jar_SPMF/
+|   	+-- jar_SPMF/
 |	getMutMatrix.py
 |	mutMatrix2ARM.m
 |	cell2csv.m
