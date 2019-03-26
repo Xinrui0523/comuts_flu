@@ -2,8 +2,9 @@
 Code and data for the paper "Detection of co-occurring and sequential mutation patterns of influenza virus A/H1N1, A/H3N2 and B viruses" 
 
 The folder is structured as: 
----------
----./Code and data/
+
+
+|./Code and data/
 |     --| ./B/
 |           | ./\_b_all_lineages.zip
             | ./b_vic.zip
